@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+mysql-connector-python==8.1.0
+pydantic==1.10.12
+
+# Notes:
+# - These exact versions are suggestions for a local prototype.
+# - In production, pin and audit dependencies appropriately.
+email-validator==1.3.1
